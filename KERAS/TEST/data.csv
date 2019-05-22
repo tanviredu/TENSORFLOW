@@ -1,0 +1,41 @@
+Date,Spot,Types of road,Injured,Death,How,Fault,Weight,Accident,Vehicle
+"May 01,2018","Hatirjheel, Dhaka",Boulevard,0,2,Motorcycle skidded off the road after hitting the railings.,10000,0.5,1,Motorbike
+"June 28,2017","Kalapani,Guimara, Khagrachari",Dirt Road,10,3,After skidded off the road the bus hit the tree.,10000,0.5,1,Bus
+"February 23,2018",Mymensingh road ,Dirt Road,25,4,bus felt into Roadside ditch   ,10001,0.17,1,Bus
+"February 7,2018",Sunamganj pagla bazar ,Dirt Road,0,4,bus and private car collision  ,10000,0.5,1,Bus and Private car
+"December 18,2018",Gazipur sarak ,street,2,1,bus thrush rickshaw  ,10010,0.33,1,Bus and Rickshaw
+"December 11,2017","Daudkandi, Comilla",Highway,6,4,Bus hit a tree beside Dhaka-Chittagong highway ,10010,0.33,1,Bus
+"January 04,2019",Asulia,street,3,2,loaded truck get over a Rickshaw ,1001,0.25,1,Truck and Rickshaw
+"December 20,2018","Comilla, chandina",Boulevard,6,3,microbus lose control ,1000,0.06,1,Micribus
+"January 06,2019",sarkira bangaler mor,street,2,1,truck get over on the passer by,1001,0.25,1,Truck
+"December 19,2018",Chittagong KEPZ road ,Boulevard,40,3,driver loses control on steering  ,1001,0.25,1,Truck
+"February 27,2018","Kashiani, Gopalgonj",Highway,14,4,A Dhaka bound bus collided head-on with a truck,1001,0.25,1,Bus & Truk
+"January 04,2019",Tangail ,Boulevard,0,1,Bus get over a motorcycle,1011,0.18,1,Bus and motocycle
+"January 03,2019","Bogura,serpur",Highway,0,1,Bus thrust a trolley  ,1011,0.18,1,Bus and Trolley
+"December 26,2018","Nilfamari,demar,sarok",Dirt Road,0,2,bus thrust ,1011,0.18,1,Bus
+"January 27,2018","Patiya, Chittagong",street,0,2,bus thrust,1100,0.06,1,Bus & Motorcycle
+"January 07,2019",Netrokona sadar Upazila lokkigong ,Dirt Road,0,2,Bus and cng Face to face clash,1101,0.43,1,Bus and Cng
+"January 04,2019",Patuakhali dosmina sarok ,street,0,1,bus and trucktor accident ,1101,0.43,1,Bus and Truck
+"February 16,2018",Cox'sBazar marine drive    ,carriageway,0,1,noah van hit an easy-bike  ,1101,0.43,1,Van and bike
+"May 20,2018","Malihata,Brahmanbaria",Boulevard,0,3,A speeding car hit the autorickshaw face to face,1101,0.43,1,Car & Auto rickshaw
+"September 26,2017","Bhobokdia, Nagarkandha, Faridpur",Highway,15,3,Bus skidded off the road  and run over the pedestrains after driver lost control over steering.,1101,0.43,1,Bus
+"january 2,2019",Hobigong,Highway,1,1,motorcycle and truck collision  ,1101,0.43,1,Motorcycle and Truck
+"March 03,2018","Chokoria,Coxs Bazar",Highway,9,4,A microbus collided with another oncoming microbus,1101,0.43,1,2 Microbuses
+"December 19,2018",hobigonz,street,5,1,pickup accident  ,11000,0.75,1,Pickup
+"september 14,2018",Dinajpur-rangpur Highway  ,Boulevard,11,2,bus collided  with another bus ,11000,0.75,1, two Bus
+"September 18,2018 ",Rangpur Central Bus terminal,Dirt Road,11,2,bus collided  with another bus ,11000,0.75,1,2 Buses
+"January 31,2018","Bedgram, Gopalganj",Boulevard,25,3,The bus plunged into roadside ditch after the driver lost his control over the steering.,11001,0.25,1,Bus
+"December 11,2018",Cox'sBazar marine drive    ,street,0,0,no  ,1101,0,0,0
+"December 12,2018","Patiya, Chittagong",street,0,0,no  ,1100,0,0,0
+"December 15,2018",Dhaka Ctg road,Highway,0,0,no  ,1101,0,0,0
+"December 17,2018","Chokoria,Coxs Bazar",Highway,0,0,no  ,1100,0,0,0
+"january 14,2018",Cox'sBazar marine drive    ,street,0,0,no  ,11011,0,0,0
+"january 19 12,2018","Patiya, Chittagong",Dirt Road,0,0,no  ,1100,0,0,0
+"january 25,2018",Dhaka Ctg road,Highway,0,0,no  ,1101,0,0,0
+"january 27,2018","Chokoria,Coxs Bazar",Highway,0,0,no  ,10010,0,0,0
+"December 15,2018",Agrabad  Access road,Boulevard,0,0,no  ,11010,0,0,0
+"December 17,2018",Naval academy road,carriageway,0,0,no  ,1100,0,0,0
+"january 14,2018",Dhaka Ctg road,Highway,0,0,no  ,1101,0,0,0
+"january 19 12,2018","Patiya, Chittagong",Dirt Road,0,0,no  ,1100,0,0,0
+"january 27,2018","Chokoria,Coxs Bazar",street,0,0,no  ,10010,0,0,0
+"December 15,2018",Agrabad  Access road,Boulevard,0,0,no  ,11010,0,0,0
